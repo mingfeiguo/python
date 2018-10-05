@@ -1,0 +1,4 @@
+# -*- coding: utf-8 -*-
+calendar.month(2018, 9)
+print "这个月的日历"
+print cal
